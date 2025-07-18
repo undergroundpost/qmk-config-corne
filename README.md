@@ -68,7 +68,7 @@ HOME_T/N (Shift): TAPPING_TERM - 20ms
   - **Prep (10-30 WPM)**: Cat gets ready, paws positioned over drums
   - **Active (30+ WPM)**: Cat energetically plays the bongos!
 
-![Bongo Cat Animation](docs/bongo-cat-demo.gif)
+![Bongo Cat Animation](images/bongo_cat.png)
 *Bongo cat responds to your typing speed - the faster you type, the faster he drums!*
 
 - **Slave (Right)**: Current layer indicator (BASE, NUM, NAV, MEDIA, FUN)
