@@ -1,0 +1,5 @@
+#pragma once
+#define TAPPING_TERM 190
+#define QUICK_TAP_TERM 0
+#define SPLIT_WPM_ENABLE
+#define SPLIT_LAYER_STATE_ENABLE
